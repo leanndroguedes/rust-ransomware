@@ -1,3 +1,3 @@
 # rust-ransomware
 
-A ransomware written in Rust (Work in progress)
+A Windows ransomware written in Rust (Work in progress)
